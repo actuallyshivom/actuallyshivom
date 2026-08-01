@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @actuallyshivom
+- 👋 Hi, I’m shivomshukla
 - 👀 I’m interested in Data Analysis and Machine Learnning
 - 🌱 I’m currently learning SQL and Python
 
